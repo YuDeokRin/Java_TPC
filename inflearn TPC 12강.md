@@ -6,7 +6,7 @@
 
 컴파일러에서 기본적으로 제공해주는 자료형
 
-![Untitled 1](https://user-images.githubusercontent.com/56623911/132691006-a30adda3-76c0-4dbf-91f4-1fc87fbd070d.png)
+<img src = "https://user-images.githubusercontent.com/56623911/132691006-a30adda3-76c0-4dbf-91f4-1fc87fbd070d.png" width="30%" height="20%">
 
 
 
@@ -24,7 +24,7 @@ a는 기본자료형(PDT)이고 컴파일러에서 기본적으로 제공해주�
 
 사용자가 직접 만들어서 사용하는 자료형
 
-![Untitled](https://user-images.githubusercontent.com/56623911/132691035-93d48b83-4acb-44ec-be72-3858a8012789.png)
+<img src="https://user-images.githubusercontent.com/56623911/132691035-93d48b83-4acb-44ec-be72-3858a8012789.png"  width="30%" height="20%">
 
 
 ```java
@@ -85,7 +85,7 @@ public class TPC10 {
 }
 ```
 
-![Untitled 3](https://user-images.githubusercontent.com/56623911/132691129-02242ecb-3c53-4852-8620-b939e4496a0f.png)
+<img src ="https://user-images.githubusercontent.com/56623911/132691129-02242ecb-3c53-4852-8620-b939e4496a0f.png" width="60%" heigth="50%">
 
 
 
