@@ -6,7 +6,9 @@
 
 컴파일러에서 기본적으로 제공해주는 자료형
 
-![Untitled](inflearn%20TPC%2012%E1%84%80%E1%85%A1%E1%86%BC%20bacc9654e80c4840913dff35af54c95c/Untitled.png)
+![Untitled 1](https://user-images.githubusercontent.com/56623911/132691006-a30adda3-76c0-4dbf-91f4-1fc87fbd070d.png)
+
+
 
 ```java
 int a;
@@ -22,7 +24,8 @@ a는 기본자료형(PDT)이고 컴파일러에서 기본적으로 제공해주�
 
 사용자가 직접 만들어서 사용하는 자료형
 
-![Untitled](inflearn%20TPC%2012%E1%84%80%E1%85%A1%E1%86%BC%20bacc9654e80c4840913dff35af54c95c/Untitled%201.png)
+![Untitled](https://user-images.githubusercontent.com/56623911/132691035-93d48b83-4acb-44ec-be72-3858a8012789.png)
+
 
 ```java
 //사용자 정의 자료형
@@ -66,7 +69,8 @@ public class BookDTO{
 
 - 객체가 생성되어 heap Area에 올라간 모습
 
-![Untitled](inflearn%20TPC%2012%E1%84%80%E1%85%A1%E1%86%BC%20bacc9654e80c4840913dff35af54c95c/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/56623911/132691089-371ee465-e4c7-415f-a9ee-ae1ff5c9fcbd.png)
+
 
 - BookDTO의 객체 번지가 들어가서 b가 BookDTO를 가리킨다.
 
@@ -81,7 +85,9 @@ public class TPC10 {
 }
 ```
 
-![Untitled](inflearn%20TPC%2012%E1%84%80%E1%85%A1%E1%86%BC%20bacc9654e80c4840913dff35af54c95c/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/56623911/132691129-02242ecb-3c53-4852-8620-b939e4496a0f.png)
+
+
 
 - import 패키지명.클래스명 ←을 이용해서 사용할 준비를한다.
 - 출력은 객체명.필드명(멤버명) 써서 사용한다.
