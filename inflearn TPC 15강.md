@@ -26,9 +26,9 @@ inf.tpc();
 
 객체생성 없이 접근가능(클래스 이름으로 접근)
 
-![Untitled](inflearn%20TPC%2015%E1%84%80%E1%85%A1%E1%86%BC%2085fb1d084302449d9edd564bcedadf34/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/56623911/133571132-34951ca4-c575-49ba-959a-629417e1b680.png)
 
-![Untitled](inflearn%20TPC%2015%E1%84%80%E1%85%A1%E1%86%BC%2085fb1d084302449d9edd564bcedadf34/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/56623911/133571180-02d99f4a-9cea-4723-8209-fc266e2c7cfe.png)
 
 ※ Java API 중에서도 생성자가 private인 클래스도 많이 있다.
 System, Math .... System sys = new System(); →X
@@ -52,12 +52,11 @@ public static void java(){
 }
 ```
 
-![Untitled](inflearn%20TPC%2015%E1%84%80%E1%85%A1%E1%86%BC%2085fb1d084302449d9edd564bcedadf34/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/56623911/133571264-b21391b6-b925-4db2-b666-c24ab910db84.png)
 
 ※ static  멤버 접근방법
 
 → 클래스이름.클래스메서드(static 메서드)
 
 - 총정리
-
-![제목 없음.png](inflearn%20TPC%2015%E1%84%80%E1%85%A1%E1%86%BC%2085fb1d084302449d9edd564bcedadf34/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
+![제목_없음](https://user-images.githubusercontent.com/56623911/133571295-12481846-3bab-4984-8e15-547c9444c561.png)
