@@ -27,8 +27,8 @@ Value Object = VO
 Modeling : 필요한 속성만 뽑아내는 과정
 
 2) 행위정보 : 동작(method), 기능(function) 
+![Untitled](https://user-images.githubusercontent.com/56623911/133805715-006cc0b1-de98-436c-80bf-17a2e7473d38.png)
 
-![Untitled](inflearn%20TPC%2013%E1%84%80%E1%85%A1%E1%86%BC%20c35e7e106cbf45debbabae9969b2c13a/Untitled.png)
 
 ## 객체가 메모리에서의 생성 그림
 
@@ -41,10 +41,11 @@ public class BookVO{
 }
 ```
 
-![Untitled](inflearn%20TPC%2013%E1%84%80%E1%85%A1%E1%86%BC%20c35e7e106cbf45debbabae9969b2c13a/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/56623911/133805793-21779ea6-e123-4d64-9a3d-1fa9088ccad1.png)
 
 ## .(dot)연산자 접근, 참조연산자
 
-![Untitled](inflearn%20TPC%2013%E1%84%80%E1%85%A1%E1%86%BC%20c35e7e106cbf45debbabae9969b2c13a/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/56623911/133805835-38e1e401-a078-4387-9099-1aab9f0f8507.png)
 
-![제목 없음.png](inflearn%20TPC%2013%E1%84%80%E1%85%A1%E1%86%BC%20c35e7e106cbf45debbabae9969b2c13a/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
+![제목_없음](https://user-images.githubusercontent.com/56623911/133805987-6ec7bc9c-e79c-4676-9268-af49f811c7da.png)
+
