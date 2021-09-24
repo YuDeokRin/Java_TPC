@@ -19,7 +19,8 @@
 
 ---
 
-![Untitled](inflearn%20TPC%2014%E1%84%80%E1%85%A1%E1%86%BC%20c84926b240b64767a86d15d81cf50e9f/Untitled.png)
+
+![Untitled](https://user-images.githubusercontent.com/56623911/134606840-b85dcaf8-be26-45e4-b08b-2941ef761631.png)
 
 ```java
 public class BookVO {
@@ -46,7 +47,8 @@ public class BookVO {
 }
 ```
 
-![제목 없음.png](inflearn%20TPC%2014%E1%84%80%E1%85%A1%E1%86%BC%20c84926b240b64767a86d15d81cf50e9f/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
+
+![제목_없음](https://user-images.githubusercontent.com/56623911/134606873-56d1a11a-b74d-4314-8d5a-d418b856203e.png)
 
 ```java
 public class TPC12 {
@@ -73,4 +75,5 @@ public class TPC12 {
 }
 ```
 
-![Untitled](inflearn%20TPC%2014%E1%84%80%E1%85%A1%E1%86%BC%20c84926b240b64767a86d15d81cf50e9f/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/56623911/134606987-ae6cdc05-3d08-4a78-a473-fda746710f5f.png)
+
