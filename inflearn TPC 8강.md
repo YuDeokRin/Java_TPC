@@ -12,7 +12,8 @@
 
 →동작 후 저장한다.
 
-![1.png](inflearn%20TPC%208%E1%84%80%E1%85%A1%E1%86%BC%202c7c7bd99c254bbd9b91a26a9460959d/1.png)
+![1](https://user-images.githubusercontent.com/56623911/134775503-45dda1f8-0b3d-41b7-a1f5-8c137effac7c.png)
+
 
 ```java
 public class TPC06 {
